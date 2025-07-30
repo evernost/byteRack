@@ -1,2 +1,2 @@
-# byterRack
-An attempt for a tiny VST2 host
+# byteRack
+An attempt at creating a tiny VST2 host application (Windows) in C/C++.
